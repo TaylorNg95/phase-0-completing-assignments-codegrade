@@ -572,7 +572,7 @@ has been accepted.
 > this way. However, the assignment will only be marked as **Submitted**, not
 > **Complete**.
 
-## Conclusion
+## Conclusions
 
 Congratulations, you've completed your first assignment and submitted it to
 CodeGrade! You now know how to work on and submit assignments going forward:
